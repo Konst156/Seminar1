@@ -1,0 +1,15 @@
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\Seminar_1\Задача0\bin\Debug\net7.0\Задача0.exe
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\Seminar_1\Задача0\bin\Debug\net7.0\Задача0.deps.json
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\Seminar_1\Задача0\bin\Debug\net7.0\Задача0.runtimeconfig.json
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\Seminar_1\Задача0\bin\Debug\net7.0\Задача0.dll
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\Seminar_1\Задача0\bin\Debug\net7.0\Задача0.pdb
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\Seminar_1\Задача0\obj\Debug\net7.0\Задача0.csproj.AssemblyReference.cache
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\Seminar_1\Задача0\obj\Debug\net7.0\Задача0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\Seminar_1\Задача0\obj\Debug\net7.0\Задача0.AssemblyInfoInputs.cache
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\Seminar_1\Задача0\obj\Debug\net7.0\Задача0.AssemblyInfo.cs
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\Seminar_1\Задача0\obj\Debug\net7.0\Задача0.csproj.CoreCompileInputs.cache
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\Seminar_1\Задача0\obj\Debug\net7.0\Задача0.dll
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\Seminar_1\Задача0\obj\Debug\net7.0\refint\Задача0.dll
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\Seminar_1\Задача0\obj\Debug\net7.0\Задача0.pdb
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\Seminar_1\Задача0\obj\Debug\net7.0\Задача0.genruntimeconfig.cache
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\Seminar_1\Задача0\obj\Debug\net7.0\ref\Задача0.dll
